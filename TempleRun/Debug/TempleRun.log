@@ -1,0 +1,8 @@
+﻿  Coin.cpp
+E:\sfml gaming project\TempleRun\Coin.cpp(49,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+E:\sfml gaming project\TempleRun\main.cpp(25,54): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\sfml gaming project\TempleRun\main.cpp(25,46): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\sfml gaming project\TempleRun\main.cpp(27,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  TempleRun.vcxproj -> E:\sfml gaming project\TempleRun\Debug\TempleRun.exe

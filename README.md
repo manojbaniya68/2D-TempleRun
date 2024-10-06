@@ -1,1 +1,1 @@
-# 2D-TempleRun
+# TempleRun
