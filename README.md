@@ -4,10 +4,14 @@ Welcome to the Temple Run 2D Game! This is a simple endless runner game created 
 # Team Members
 1. Manoj Kumar Kanu Baniya contact : 9821489486   
    * Gmail: manojbaniya80@gmail.com
-   * Github https://github.com/manojbaniya68 
+   * Github: https://github.com/manojbaniya68 
 2. Bhupendra Shah
+   * Gmail: 080bct023@ioepc.edu.np
+   * Github: https://github.com/bhupendrasah1
 3. Bibek Sodari
+   * Gmail: 080bct025@ioepc.edu.np
 4. Abhisek Gupta
+   * Gmail: 080bct006@ioepc.edu.np
 
 # Features
 * Endless running gameplay
