@@ -2,7 +2,7 @@
 Welcome to the Temple Run 2D Game! This is a simple endless runner game created in C++ using SFML (Simple and Fast Multimedia Library). Navigate through a temple side filled with obstacles while collecting coins and aiming for the highest score!
 
 # Team Members
-1. Manoj Kumar Kanu Baniya contact : 9821489486   
+1. Manoj Kumar Kanu Baniya
    * Gmail: manojbaniya80@gmail.com
    * Github: https://github.com/manojbaniya68 
 2. Bhupendra Shah
